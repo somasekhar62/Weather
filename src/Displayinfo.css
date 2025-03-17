@@ -1,0 +1,16 @@
+.details{
+    text-align: center;
+    color: black;
+    padding: auto;
+}
+.cardcontainer{
+    display: flex;
+    justify-content: center ;
+    margin-top: 50px;
+    font-style: normal;
+    border-radius: 50px;
+}
+.weather{
+    display: flex;
+    justify-content: center;
+}
